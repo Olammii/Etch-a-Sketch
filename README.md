@@ -1,6 +1,6 @@
 Project: ETCH-A-SKETCH
 
-[View in Browser]: https://olammii.github.io/Etch-a-Sketch/
+[View in Browser](https://olammii.github.io/Etch-a-Sketch/)
 
 Introduction
 
